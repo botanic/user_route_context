@@ -1,0 +1,6 @@
+{
+  "name": "drupal/user_route_context",
+  "type": "drupal-module",
+  "description": "User from URL context for plugins",
+  "keywords": ["Drupal", "User context"]
+}
